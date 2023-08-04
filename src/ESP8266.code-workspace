@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Máy tính/ESP8266-Project-main/ESP8266"
+		},
+		{
+			"name": "MQTT VIIS",
+			"path": ".."
+		},
+		{
+			"name": "ESP32_SHT",
+			"path": "../../ESP32_SHT"
+		}
+	],
+	"settings": {}
+}
